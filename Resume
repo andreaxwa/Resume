@@ -1,0 +1,108 @@
+\documentclass[10pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\setlength{\parindent}{0pt}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{lipsum}
+\usepackage[left=1.06cm,top=0.7cm,right=1.06cm,bottom=0.7cm]{geometry}
+
+\begin{document}
+\begin{center}
+    \textbf{Hoang Vo Thuy Duong (Andrea)}\\ 
+    An Phu, Thu Duc City, HCMC | andreaxwa@gmail.com | (+84) 038-922-5626 | linkedin.com/in/andreahduong
+\noindent\rule{\textwidth}{0.7pt}\end{center}
+
+Detail-oriented Business graduate with a proven track record in administrative operations, data integrity, and stakeholder management. Experienced in handling complex documentation and financial processing in fast-paced environments like Rentokil Initial and UNICEF. Highly adaptable professional with a background in Human Resource Management and a strong commitment to accuracy and operational excellence across diverse business functions.
+
+\begin{center}
+    \textbf{Education}
+\end{center}
+\textbf{RMIT University} \hfill HCMC, Vietnam
+
+Bachelor of Business, Human Resource Management \hfill October 2021 - January 2025
+
+Relevant Coursework: Relevant Coursework: Leadership, Employment Relations, Organisational Analysis, People Analytics, Negotiation and Conflict
+Resolution, Innovation Management, Human Resource Development, Managing People for Future.
+
+\vspace{12pt}
+
+\textbf{Woodrow Wilson High School} \hfill	Tacoma, WA, USA
+
+\textbf{GPA:} 3.4/4; \textbf{SAT:} 1270 (2020); Outstanding Academic Achievement - President's Education Awards Program
+
+AP Calculus AB for college credit at Central Washington University and AP Physics 1
+
+\begin{center}
+    \textbf{Related Experience}
+\end{center}
+\textbf{Rentokil Initial Singapore} \hfill HCMC, Vietnam (Hybrid)
+
+\textbf{Billing Assistant} \hfill August 2025 – Current 
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+    \item Manage the verification and processing of debit/credit notes, invoices, and service reports to ensure accuracy and timeliness.
+    \item Handle internal and external billing enquiries, coordinating across departments to implement special billing instructions.
+    \item Maintain precise documentation and filing systems for all financial records, ensuring strict compliance with internal procedures.
+\end{itemize}
+\vspace{12pt}
+
+\textbf{RMIT Sustainability Department} \hfill HCMC, Vietnam
+
+\textbf{Project Assistant} \hfill February 2025 – May 2025
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+    \item Manage administrative and project coordination tasks for sustainability programs and events.
+    \item Coordinate logistics, documentation, and event execution, supporting the smooth operation of department initiatives.
+    \item Handle procurement processes, including ordering supplies and services, preparing purchase orders. Maintain accurate records of expenses, and ensured compliance with internal procurement procedures.
+\end{itemize}
+\vspace{12pt}
+\textbf{UNICEF} \hfill HCMC, Vietnam
+
+\textbf{Intern at Partnership and Resource Mobilisation Office} \hfill June 2024 – December 2024
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+    \item Support UNICEF NextGen's operations and implementation of NextGen’s strategies and communication plan.
+    \item Administrative support for NextGen’s events and managing NextGen’s knowledge documentation.
+    \item Assist in preparing reports for donor engagement and event finance tracking (e.g., attendance, budget usage, supply requests and service requests, membership data).
+\end{itemize}
+
+\vspace{12pt}
+
+\textbf{Ministry of Information and Communications} \hfill Hanoi, Vietnam (Remote)
+
+\textbf{Intern at Department of Digital Economy and Society (Team Leader)} \hfill November 2023 – June 2024
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+    \item Conduct data collection and reporting on global 5G use cases.
+    \item Translate technical reports into Vietnamese for internal government stakeholder use.
+\end{itemize}
+\vspace{12pt}
+
+\textbf{Vietnam International Bank} \hfill HCMC, Vietnam
+
+\textbf{Human Resource Intern (Talent Acquisition and Resourcing)} \hfill April 2023 – October 2023
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+    \item Manage and updated employee data systems, ensuring accuracy and confidentiality.
+    \item Supported onboarding document processes and internal reporting for HR operations.
+\end{itemize}
+
+\begin{center}
+    \textbf{Leadership \& Activities}
+\end{center}
+
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt]
+    \item Former Talent Development Coordinator of Sustainability Ambassador Program, RMIT Sustainability Department.
+    \item Former Event Management Coordinator and Human Resources Coordinator of RMIT Neo Culture Technology Club.
+    \item Former HR Member of RMIT Charity and Environment Club.
+    \item Volunteered for IT’S TTIME, Hanoi Creative Design Festival 2023 and RMIT Event Drive.
+\end{itemize}
+
+\begin{center}
+    \textbf{Skills \& Interests}
+\end{center}
+
+\textbf{Technical:} Excel, Word, Canva, Powerpoint, Teams, Outlook.
+
+\textbf{Language:} Vietnamese (Native), English (Fluent).
+
+\textbf{Interests:} Learning languages (Spanish, Mandarin, Portuguese), sustainable developments, cooking, fantasy \& sci-fi books, music (MPB, alt/indie rock) and podcasts.
+\end{document}
